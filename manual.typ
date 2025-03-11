@@ -99,6 +99,7 @@ All of the @everyone, plus:
 - Assist lab members with data collection, cleaning, and analysis.
   If you have an independent project under mentorship, that should be your priority.
 - Manage your time effectively to balance classes, studying, and lab responsibilities.
+  Nevertheless, your priority should be your classes.
 - Present research at intramural events, external labs, and conferences.
 
 = Code of conduct
